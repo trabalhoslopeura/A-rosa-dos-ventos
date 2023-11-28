@@ -23,7 +23,8 @@
 
 <p>  
 Este é um projeto relacionado ao final do <b>Curso de Robótica para Graduandos - 2023.2</b> do <i>URA</i> (https://www.umroboporaluno.org/) que teve como finalidade utilizar a robótica educativa para incentivar à melhor compreensão de um conteúdo baseado na Base Nacional Comum Curricular. 
-</p>
+
+ O projeto a seguir foi elaborado com base na matéria de Geografia, especificamente no conteúdo de localização geográfica. Nosso intuito foi desenvolver um método para que alunos, do ensino fundamental até o ensino médio, pudessem entender com uma maior didática o uso da Rosa dos Ventos – instrumento utilizado para orientar e localizar os pontos cardeais (norte, sul, leste, oeste) – e como ela é adotada em mapas. 
 
 <!-- Ensinar sobre a Rosa dos Ventos -->
 
