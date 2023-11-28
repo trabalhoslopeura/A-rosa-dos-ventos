@@ -2,9 +2,17 @@
 ============= ROSA DOS VENTOS =============
 ==========================================
 
-**Sobre**
+**Sobre:**
+
+**Como se joga:**
+
+**Componentes:**
 
 **Configuração do circuito:**
+
+**Configuração do código:**
+
+**Créditos:**
 De forma mais objetiva, as conexões relacionadas aos dois módulos serão ditas separadamente. 
 
 ![Imagem sobre lpaca PCA9685](https://github.com/Lucas-Cappra/Braco_robotic_lar_joystick/assets/108031562/fedc4245-7ee5-4acc-aebf-09f8122d877d)
