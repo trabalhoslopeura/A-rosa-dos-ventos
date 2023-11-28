@@ -22,24 +22,24 @@
 ## 📄 Descrição do Projeto
 
 <p>  
-  Este é o repositório do projeto final do <b>Curso de Robótica para Graduandos - 2023.2</b> do <i>URA</i> (https://www.umroboporaluno.org/), o qual tem como objetivo o desenvolvimento de um projeto que envolva a <i>Robótica Educacional</i> e que esteja seguindo a <i>BNCC - Base Nacional Comum Curricular</i>.
+Este é um projeto relacionado ao final do <b>Curso de Robótica para Graduandos - 2023.2</b> do <i>URA</i> (https://www.umroboporaluno.org/) que teve como finalidade utilizar a robótica educativa para incentivar à melhor compreensão de um conteúdo baseado na Base Nacional Comum Curricular. 
 </p>
 
-<!-- Descrever o teclado musical como OA para crianças -->
+<!-- Ensinar sobre a Rosa dos Ventos -->
 
 ## 🧰 Componentes Utilizados
 
 | Quantidade | Componente | 
 | :---:       |     :---:       |  
-| 1     | Arduíno Uno R3      | 
+| 1     | Blackboard Uno R3      | 
 | 1     | Servo Motor       |
-| 4     | Leds de Cores Diferentes               |
-| 6     | Resistores de 220 Ohms (ou valor adequado para o LED selecionado) |
+| 4     | Leds de Cores Diversas             |
+| 6     | Resistores |
 | 1     | Buzzer |
 | 1     | Botão |
 | 1     | Potenciômetro |
 | 1     | Protoboard |
-| X     | Jumpers (Macho/Macho) |
+| 18    | Jumpers (Macho/Macho) |
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -48,7 +48,6 @@
  <img align="center" alt="Misla-C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
  <img align="center" alt="Misla-Github" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt="Misla-Tinkercad" height="50" width="60" src="https://logowik.com/content/uploads/images/autodesk-tinkercad4190.logowik.com.webp">
- <img align="center" alt="Misla-Canva" height="50" width="60" src="https://logosmarcas.net/wp-content/uploads/2020/01/Canva-Logo.png">
 </div>
 
 ## 📝 Como Fazer
@@ -131,9 +130,10 @@ Observações:
 Em resumo, o código recebe leituras dos joysticks analógicos, suaviza essas leituras, mapeia-as para ângulos de servo e controla os servos de acordo com os valores alvo. Isso permite controlar a posição dos servos com os joysticks de forma suave e precisa.
 
 ## 🎮 Como Jogar
+Inicialmente, o aluno irá identificar onde estão os LEDs, em seguida o professor irá escolher qual LED será ligado primeiro para que o aluno comece a jogar. Assim que o professor terminar, o aluno terá um tempo para posicionar a Rosa dos Ventos com ajuda de um potenciômetro. Após esse posicionamento, ele terá que apertar o botão para confirmar as coordenadas, dependendo da resposta o buzzer tocará um som para acerto e erro. Enquanto o aluno acertar, ele continuará no jogo até finalizar. 
 
 ## 🗂️ Documentação do Projeto
 
 ## 🧾 Créditos
-  - Rhyron Gabriel Azevedo de Oliveira
-  - Isabel  
+  - Isabel Maria Barbosa Alves
+  - Rhyron Gabriel Azevedo de Oliveira 
