@@ -1,5 +1,5 @@
 ==========================================
-==== EXPLICAÇÃO RELACIONADO AO CIRCUITO ====
+============ ROSA DOS VENTOS =============
 ==========================================
 
 **Configuração do circuito:**
