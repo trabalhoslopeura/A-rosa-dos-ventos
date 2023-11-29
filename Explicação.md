@@ -122,7 +122,7 @@ Inicialmente, o aluno irá identificar onde estão os LEDs, em seguida o profess
 
 KATUTA, Ângela M. A LEITURA DE MAPAS NO ENSINO DE GEOGRAFIA. Nuances: Estudos sobre Educação, Presidente Prudente, v. 8, n. 8, 2011. Disponível em: https://revista.fct.unesp.br/index.php/Nuances/article/view/426. Acesso em: 28 nov. 2023.
 
-## Créditos
+## 🤑 Créditos
 
   - Isabel Maria Barbosa Alves
   - Rhyron Gabriel Azevedo de Oliveira 
