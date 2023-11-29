@@ -59,6 +59,9 @@ Este é um projeto relacionado ao final do <b>Curso de Robótica para Graduandos
 -Modelo do Tinkercad
 ![image](https://github.com/trabalhoslopeura/A-rosa-dos-ventos/assets/151954448/d2c3350e-94c7-489c-a33d-9a8f59b1bc40)
 
+-Modelo Físico
+https://github.com/trabalhoslopeura/A-rosa-dos-ventos/assets/151954448/d3b00aa9-0996-477d-95ac-36df232e1e6b
+
 === Circuito completo ===
 
 | Quantidade | Componente | 
