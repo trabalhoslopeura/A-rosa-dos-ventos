@@ -119,11 +119,6 @@ Este código é destinado a controlar servos motorizados. Aqui está um resumo e
    - Conjunto de condições if para cada ponto cardial, sendo ativadas ao apertar do botão e caso esteja em um ponto fará um barulho agradável, senão saíra um barulho desagradável.
 
 
-Observações:
-   As funções que garantem a função de limitação são relacionadas diretamente aos limites de cada motor, sendo limitados manualmente, protejendo dos limites da mesa principalmente durante a inicialização.
-
-Em resumo, o código recebe leituras dos joysticks analógicos, suaviza essas leituras, mapeia-as para ângulos de servo e controla os servos de acordo com os valores alvo. Isso permite controlar a posição dos servos com os joysticks de forma suave e precisa.
-
 ## 🎮 Como Jogar
 Inicialmente, o aluno irá identificar onde estão os LEDs, em seguida o professor irá escolher qual LED será ligado primeiro para que o aluno comece a jogar. Assim que o professor terminar, o aluno terá um tempo para posicionar a Rosa dos Ventos com ajuda de um potenciômetro. Após esse posicionamento, ele terá que apertar o botão para confirmar as coordenadas, dependendo da resposta o buzzer tocará um som para acerto e erro. Enquanto o aluno acertar, ele continuará no jogo até finalizar. 
 
