@@ -60,27 +60,26 @@ De forma mais objetiva, as conexões relacionadas aos dois módulos serão ditas
 ![Imagem sobre lpaca PCA9685](https://github.com/Lucas-Cappra/Braco_robotic_lar_joystick/assets/108031562/fedc4245-7ee5-4acc-aebf-09f8122d877d)
 === Circuito completo ===
 
-*Config do Servo Motor:*
-1) Jumper Marrom -> para o GND do Arduíno
-2) Jumper Laranja -> para pino 7 do Arduíno
-3) Jumper Vermelho ->  para V5 do Arduíno
+| Quantidade | Componente | 
+| :---:       |     :---:       |  
+| Polaridade +     | 5V     | 
+| Polaridade -     | GND       |
+| Buzzer     | 8             |
+| Servo     | 7 |
+| Botão     | 6 |
+| Led Azul     | 5 |
+| Led Vermelho     | 4 |
+| Led Amarelo     | 3 |
+| Led Branco    | 2 |
+
+
+
+
 
 ![Imagem sobre Circuito](https://github.com/Lucas-Cappra/Braco_robotic_lar_joystick/assets/108031562/33964546-cdc7-4dae-9828-7732c26ba123)
 
 
-*Config do Botão:*
-1) Jumper Branco -> VCC para VCC do Arduino
-2) Jumper Cinza -> GND para GND do Arduino
 
- *Config do Buzzer:*
-1) Jumper Amarelo -> VRx do módulo 2 para A0 do arduino
-2) Jumper Verde -> VRy do módulo 2 para A1 do arduino
-3) Jumper Verde afastado -> Switch do módulo 2 para porta digital do arduino
-
- *Config do Potenciômetro:*
-1) Jumper Roxo -> VRx do módulo 1 para A2 do arduino
-2) Jumper Azul -> VRy do módulo 1 para A3 do arduino
-3) Jumper Cinza afastado -> Switch do módulo 1 para porta digital do arduino
 
 
 ![Imagem sobre Modolos analogicos](https://github.com/Lucas-Cappra/Braco_robotic_lar_joystick/assets/108031562/db9be6e3-368b-4ff6-968c-c23cb0e2d47f)
