@@ -55,9 +55,9 @@ Este é um projeto relacionado ao final do <b>Curso de Robótica para Graduandos
 <!-- Colocar slide da apresentação, o códido estará disponível e um pequeno manual de instruções -->
 ### 🖥️ Explicação Circuito - Hardware
 **Configuração do circuito:**
-De forma mais objetiva, as conexões relacionadas aos dois módulos serão ditas separadamente. 
 
-![Imagem sobre lpaca PCA9685](https://github.com/Lucas-Cappra/Braco_robotic_lar_joystick/assets/108031562/fedc4245-7ee5-4acc-aebf-09f8122d877d)
+![image](https://github.com/trabalhoslopeura/A-rosa-dos-ventos/assets/151954448/d2c3350e-94c7-489c-a33d-9a8f59b1bc40)
+
 === Circuito completo ===
 
 | Quantidade | Componente | 
