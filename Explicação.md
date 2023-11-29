@@ -117,7 +117,8 @@ Este código é destinado a controlar servos motorizados. Aqui está um resumo e
 Inicialmente, o aluno irá identificar onde estão os LEDs, em seguida o professor irá escolher qual LED será ligado primeiro para que o aluno comece a jogar. Assim que o professor terminar, o aluno terá um tempo para posicionar a Rosa dos Ventos com ajuda de um potenciômetro. Após esse posicionamento, ele terá que apertar o botão para confirmar as coordenadas, dependendo da resposta o buzzer tocará um som para acerto e erro. Enquanto o aluno acertar, ele continuará no jogo até finalizar. 
 
 ## 🗂️ Documentação do Projeto
-[Slides do URA.pptx](https://github.com/trabalhoslopeura/A-rosa-dos-ventos/files/13501634/Slides.do.URA.pptx)
+[Slides do URA.pptx](https://github.com/trabalhoslopeura/A-rosa-dos-ventos/files/13502047/Slides.do.URA.pptx)
+
 
 ## 🧾 Referência
 
