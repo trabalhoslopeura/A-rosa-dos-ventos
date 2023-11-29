@@ -100,29 +100,22 @@ Este código é destinado a controlar servos motorizados. Aqui está um resumo e
    - O código começa incluindo a biblioteca Servo.h.
 
 2. Definição de pinos:
-   - Os pinos analógicos para os joysticks são definidos como constantes, identificando as entradas analógicas dos dois eixos (X e Y) de dois joysticks.
+   - Os pinos dos Leds definidos para cada ponto cardial.
 
 3. Declaração de variáveis:
-   - Variáveis são definidas para controlar as posições dos servos e os valores alvo para cada servo. Também há constantes para suavização de leituras analógicas.
+   - Variáveis foram definidas para acompanhar o valor de movimento do servo
+   - Estado para definir se o sevo está dentro ou fora das regiões.
 
 4. Função de configuração (setup):
-   - Define o modo dos pinos dos joysticks como entrada.
-   - Inicializa a biblioteca Adafruit_PWMServoDriver, configurando a frequência do oscilador e a frequência do PWM.
+   - Define o modo dos leds e buzzer, como saída.
+   - Define o modo do botão como INPUT_PULLUP.
+   - Define o modo do potenciômetro como entrada.
+   - Estado do botão como não pressionado
    - Inicializa a comunicação serial a 9600 bps.
-   - Chama a função "inicialServoPosition" para definir as posições iniciais dos servos.
 
-5. Função "inicialServoPosition":
-   - Define posições iniciais para os quatro servos conectados.
-
-6. Função "updateServos":
-   - Suaviza as leituras dos joysticks analógicos, calculando médias ponderadas das leituras brutas.
-   - Mapeia os valores suavizados para ângulos de servo, com algumas considerações para limites e zonas mortas.
-   - Atualiza os valores alvo dos servos, suavizando-os e ajustando para limites.
-   - Finalmente, envia os valores alvo para os servos usando a biblioteca Adafruit_PWMServoDriver.
-
-7. Função "loop":
-   - Chama a função "updateServos" para atualizar continuamente as posições dos servos.
-   - Introduz um pequeno atraso para evitar atualizações muito frequentes.
+5. Função "loop":
+   - .
+   - .
 
 
 Observações:
