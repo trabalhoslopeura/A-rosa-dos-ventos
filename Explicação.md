@@ -54,15 +54,18 @@ Este é um projeto relacionado ao final do <b>Curso de Robótica para Graduandos
 ## 📝 Como Fazer
 <!-- Colocar slide da apresentação, o códido estará disponível e um pequeno manual de instruções -->
 ### 🖥️ Explicação Circuito - Hardware
-**Configuração do circuito:**
 
--Modelo do Tinkercad
+**Modelo do Tinkercad:**
+
 ![image](https://github.com/trabalhoslopeura/A-rosa-dos-ventos/assets/151954448/d2c3350e-94c7-489c-a33d-9a8f59b1bc40)
 
--Modelo Físico
+**Modelo Físico:**
+
+![IMG-20231128-WA0197](https://github.com/trabalhoslopeura/A-rosa-dos-ventos/assets/151954448/f79fcdc1-1b3d-4ea1-8caa-bf1b95435380)
+
 https://github.com/trabalhoslopeura/A-rosa-dos-ventos/assets/151954448/d3b00aa9-0996-477d-95ac-36df232e1e6b
 
-=== Circuito completo ===
+**Configuração do circuito:**
 
 | Quantidade | Componente | 
 | :---:       |     :---:       |  
