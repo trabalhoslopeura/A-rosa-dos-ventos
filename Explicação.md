@@ -35,7 +35,7 @@ Este é um projeto relacionado ao final do <b>Curso de Robótica para Graduandos
 | 1     | Blackboard Uno R3      | 
 | 1     | Servo Motor       |
 | 4     | Leds de Cores Diversas             |
-| 6     | Resistores |
+| 5     | Resistores |
 | 1     | Buzzer |
 | 1     | Botão |
 | 1     | Potenciômetro |
@@ -114,8 +114,9 @@ Este código é destinado a controlar servos motorizados. Aqui está um resumo e
    - Inicializa a comunicação serial a 9600 bps.
 
 5. Função "loop":
-   - .
-   - .
+   - Verifica o estado do botão e mostra se foi ativado ou não.
+   - Valor tanto do potenciômetro e servo, map(valor, 0, 1023, 0, 180).
+   - Conjunto de condições if para cada ponto cardial, sendo ativadas ao apertar do botão e caso esteja em um ponto fará um barulho agradável, senão saíra um barulho desagradável.
 
 
 Observações:
