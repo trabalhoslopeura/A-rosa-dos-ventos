@@ -103,7 +103,7 @@ Este código é destinado a controlar servos motorizados. Aqui está um resumo e
 
 3. Declaração de variáveis:
    - Variáveis foram definidas para acompanhar o valor de movimento do servo
-   - Estado para definir se o sevo está dentro ou fora das regiões.
+   - Estado para definir se o servo está dentro ou fora das regiões.
 
 4. Função de configuração (setup):
    - Define o modo dos leds e buzzer, como saída.
@@ -115,7 +115,9 @@ Este código é destinado a controlar servos motorizados. Aqui está um resumo e
 5. Função "loop":
    - Verifica o estado do botão e mostra se foi ativado ou não.
    - Valor tanto do potenciômetro e servo, map(valor, 0, 1023, 0, 180).
-   - Conjunto de condições if para cada ponto cardial, sendo ativadas ao apertar do botão e caso esteja em um ponto fará um barulho agradável, senão saíra um barulho desagradável.
+   - Conjunto de condições if para cada ponto cardial.
+   - Ao apertar o botão, enquanto estiver em um ponto cardial acenderá o respectivo led.
+   - Caso ao apertar e estiver em um dos pontos cardiais fará um som agradável, senão tocará um som chato.
 
 
 ## 🎮 Como Jogar
