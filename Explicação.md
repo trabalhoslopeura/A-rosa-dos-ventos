@@ -17,6 +17,7 @@
  - [Como Jogar](#-como-jogar)
  - [Documentação do Projeto](#%EF%B8%8F-documenta%C3%A7%C3%A3o-do-projeto)
  - [Referências](#-referências)
+ - [Créditos](#-créditos)
 </div>
 
 ## 📄 Descrição do Projeto
@@ -25,6 +26,8 @@
 Este é um projeto relacionado ao final do <b>Curso de Robótica para Graduandos - 2023.2</b> do <i>URA</i> (https://www.umroboporaluno.org/) que teve como finalidade utilizar a robótica educativa para incentivar à melhor compreensão de um conteúdo baseado na Base Nacional Comum Curricular. 
 
  O projeto a seguir foi elaborado com base na matéria de Geografia, especificamente no conteúdo de localização geográfica. Nosso intuito foi desenvolver um método para que alunos, do ensino fundamental até o ensino médio, pudessem entender com uma maior didática o uso da Rosa dos Ventos – instrumento utilizado para orientar e localizar os pontos cardeais (norte, sul, leste, oeste) – e como ela é adotada em mapas. 
+
+ É necessário destacar que, desde os primórdios, o ser humano precisava se localizar. Primeiramente, começou com pontos para uma melhor sobrevivência (lugares que tinham água, alimentos e distância de perigos), então por tal razão veio a necessidade de se situar no espaço (Katuta, Ângela, 2002). Desde então tivemos diversas formas de localização, como: mapas, bússolas, rosa dos ventos, GPS, entre outros. 
 
 <!-- Ensinar sobre a Rosa dos Ventos -->
 
@@ -110,10 +113,16 @@ Este código é destinado a controlar servos motorizados. Aqui está um resumo e
 
 
 ## 🎮 Como Jogar
+
 Inicialmente, o aluno irá identificar onde estão os LEDs, em seguida o professor irá escolher qual LED será ligado primeiro para que o aluno comece a jogar. Assim que o professor terminar, o aluno terá um tempo para posicionar a Rosa dos Ventos com ajuda de um potenciômetro. Após esse posicionamento, ele terá que apertar o botão para confirmar as coordenadas, dependendo da resposta o buzzer tocará um som para acerto e erro. Enquanto o aluno acertar, ele continuará no jogo até finalizar. 
 
 ## 🗂️ Documentação do Projeto
 
-## 🧾 Créditos
+## 🧾 Referência
+
+KATUTA, Ângela M. A LEITURA DE MAPAS NO ENSINO DE GEOGRAFIA. Nuances: Estudos sobre Educação, Presidente Prudente, v. 8, n. 8, 2011. Disponível em: https://revista.fct.unesp.br/index.php/Nuances/article/view/426. Acesso em: 28 nov. 2023.
+
+## Créditos
+
   - Isabel Maria Barbosa Alves
   - Rhyron Gabriel Azevedo de Oliveira 
